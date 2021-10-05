@@ -1,0 +1,10 @@
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\obj\Debug\Prova01 - Calculadora.csproj.AssemblyReference.cache
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\obj\Debug\Prova01___Calculadora.Form1.resources
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\obj\Debug\Prova01___Calculadora.Properties.Resources.resources
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\obj\Debug\Prova01 - Calculadora.csproj.GenerateResource.cache
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\obj\Debug\Prova01 - Calculadora.csproj.CoreCompileInputs.cache
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\bin\Debug\Prova01 - Calculadora.exe.config
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\bin\Debug\Prova01 - Calculadora.exe
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\bin\Debug\Prova01 - Calculadora.pdb
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\obj\Debug\Prova01 - Calculadora.exe
+D:\visual studio\Prova01 - Calculadora\Prova01 - Calculadora\obj\Debug\Prova01 - Calculadora.pdb
